@@ -3,3 +3,7 @@ Read 2
 Read 3
 Read 4
 Read 5
+<<<<<<< HEAD
+=======
+Read 6
+>>>>>>> origin/master
